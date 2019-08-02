@@ -4,7 +4,7 @@
 name: alicloud_create_ssh_key_pair
 
 # label should be a human readable label that conveys what this skillet will do
-label: Alibaba Cloud Create SSH Key Pair
+label: Alibaba Cloud To Create SSH Key Pair
 
 # description is a longer more informative version of a label
 description: This skillet will create a SSH Key Pair in the specified Alibaba Cloud region
