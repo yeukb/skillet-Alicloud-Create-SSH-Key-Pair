@@ -5,7 +5,7 @@ Prequisites:
   - See Panhandler documentation for instructions
     - https://panhandler.readthedocs.io/en/master/running.html
 - Assuming you mounted local directory ~/.pan_cnc
-  - the keyfile will be saved to the directory ~/.pan_cnc/panhandler/repositories/<<Repository Name>>
+  - the keyfile will be saved to the directory ~/.pan_cnc/panhandler/repositories/\<Repository Name\>
 
 
 Description:
